@@ -11,6 +11,7 @@ A curated list of awesome security tools, experimental case or other interesting
     - [Detecting](#detecting)
     - [Preventing](#preventing)
     - [Social Engineering](#social-engineering)
+    - [Fix](#Fix)
 - [Cases](#cases)
     - [Experimental](#experimental)
     - [Blogs](#blogs)
@@ -39,6 +40,10 @@ A curated list of awesome security tools, experimental case or other interesting
 ### Preventing
 
 ### Social Engineering
+
+### Fix
+
+* [wolverine](https://github.com/biobootloader/wolverine) - Auto fix the bugs in your Python Script/Code
 
 ## Cases
 
