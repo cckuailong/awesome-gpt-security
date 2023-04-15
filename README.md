@@ -41,6 +41,8 @@ A curated list of awesome security tools, experimental case or other interesting
 
 ### Social Engineering
 
+* [ChatGPT-Web-Setting-Funny-Abuse](https://github.com/Esonhugh/ChatGPT-Web-Setting-Funny-Abuse) - Play with ChatGPT-Web and found the HTML rendering in description settings.
+
 ### Fix
 
 * [wolverine](https://github.com/biobootloader/wolverine) - Auto fix the bugs in your Python Script/Code
@@ -49,6 +51,7 @@ A curated list of awesome security tools, experimental case or other interesting
 
 ### Experimental
 
+* [Lost in ChatGPT's memories: escaping ChatGPT-3.5 memory issues to write CVE PoCs](https://tin-z.github.io/chatgpt/go/cve/2023/04/14/escaping_chatgpt_memory.html)
 * [I built a Zero Day virus with undetectable exfiltration using only ChatGPT prompts](https://www.forcepoint.com/blog/x-labs/zero-day-exfiltration-using-chatgpt-prompts)
 * [Experimenting with GPT-3 for Detecting Security Vulnerabilities in Code](https://github.com/chris-koch-penn/gpt3_security_vulnerability_scanner)
 * [We put GPT-4 in Semgrep to point out false positives & fix code](https://semgrep.dev/blog/2023/gpt4-and-semgrep-detailed)
