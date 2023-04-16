@@ -37,6 +37,8 @@ A curated list of awesome security tools, experimental case or other interesting
 
 ### Detecting
 
+* [cloudgpt](https://github.com/ustayready/cloudgpt) - Vulnerability scanner for AWS customer managed policies using ChatGPT
+
 ### Preventing
 
 ### Social Engineering
