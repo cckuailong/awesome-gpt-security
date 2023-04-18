@@ -11,10 +11,12 @@ A curated list of awesome security tools, experimental case or other interesting
     - [Detecting](#detecting)
     - [Preventing](#preventing)
     - [Social Engineering](#social-engineering)
+    - [Reverse Engineering](#reverse-engineering)
     - [Fix](#Fix)
 - [Cases](#cases)
     - [Experimental](#experimental)
     - [Blogs](#blogs)
+    - [Fun](#fun)
 - [Contributing](#contributing)
 
 ---
@@ -26,8 +28,12 @@ A curated list of awesome security tools, experimental case or other interesting
 * [SourceGPT](https://github.com/NightmareLab/SourceGPT) - prompt manager and source code analyzer built on top of ChatGPT as the oracle
 * [ChatGPTScanner](https://github.com/YulinSec/ChatGPTScanner) - A white box code scan powered by ChatGPT
 * [chatgpt-code-analyzer](https://github.com/MilindPurswani/chatgpt-code-analyzer) - ChatGPT Code Analyzer for Visual Studio Code
+* [hacker-ai](https://hacker-ai.ai/#hacker-ai) - An online tool using AI to detect vulnerabilities in source code
 
 ### Reconnaissance
+
+* [GPT_Vuln-analyzer](https://github.com/morpheuslord/GPT_Vuln-analyzer) - Uses ChatGPT API, Python-Nmap, DNS Recon modules and uses the GPT3 model to create vulnerability reports based on Nmap scan data, and DNS scan information. It can also perform subdomain enumeration to a great extent
+* [Navi](https://github.com/SSGOrg/Navi) - A QA based Reconnaissance Tool with GPT
 
 ### Offensive
 
@@ -38,12 +44,19 @@ A curated list of awesome security tools, experimental case or other interesting
 ### Detecting
 
 * [cloudgpt](https://github.com/ustayready/cloudgpt) - Vulnerability scanner for AWS customer managed policies using ChatGPT
+* [IATelligence](https://github.com/fr0gger/IATelligence) - About
+IATelligence is a Python script that will extract the IAT of a PE file and request GPT to get more information about the API and the ATT&CK matrix related
 
 ### Preventing
 
 ### Social Engineering
 
 * [ChatGPT-Web-Setting-Funny-Abuse](https://github.com/Esonhugh/ChatGPT-Web-Setting-Funny-Abuse) - Play with ChatGPT-Web and found the HTML rendering in description settings.
+
+### Reverse Engineering
+
+* [gpt-wpre](https://github.com/moyix/gpt-wpre) - Whole-Program Reverse Engineering with GPT-3
+* [G-3PO](https://github.com/tenable/ghidra_tools/tree/main/g3po) - A Script that Solicits GPT-3 for Comments on Decompiled Code
 
 ### Fix
 
@@ -63,6 +76,10 @@ A curated list of awesome security tools, experimental case or other interesting
 * [Dissecting redis CVE-2023-28425 with chatGPT as assistant](https://tin-z.github.io/redis/cve/chatgpt/2023/04/02/redis-cve2023.html)
 * [Security Code Review With ChatGPT](https://research.nccgroup.com/2023/02/09/security-code-review-with-chatgpt/)
 * [ChatGPT happy to write ransomware, just really bad at it](https://www.malwarebytes.com/blog/news/2023/03/chatgpt-happy-to-write-ransomware-just-really-bad-at-it?utm_source=blueshift&utm_medium=email&utm_campaign=b2c_pro_oth_20230403_aprilweeklynewsletter_v1_168025968119&utm_content=chatgpt_ransomware)
+
+### Fun
+
+* [shortest prompt that will enable GPT to protect the secret key](https://gpd.43z.one/)
 
 # Contributing
 
