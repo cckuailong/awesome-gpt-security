@@ -33,6 +33,7 @@ A curated list of awesome security tools, experimental case or other interesting
 ### Reconnaissance
 
 * [GPT_Vuln-analyzer](https://github.com/morpheuslord/GPT_Vuln-analyzer) - Uses ChatGPT API, Python-Nmap, DNS Recon modules and uses the GPT3 model to create vulnerability reports based on Nmap scan data, and DNS scan information. It can also perform subdomain enumeration to a great extent
+* [SubGPT](https://github.com/s0md3v/SubGPT) - SubGPT looks at subdomains you have already discovered for a domain and uses BingGPT to find more.
 * [Navi](https://github.com/SSGOrg/Navi) - A QA based Reconnaissance Tool with GPT
 
 ### Offensive
