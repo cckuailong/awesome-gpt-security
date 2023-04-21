@@ -12,7 +12,8 @@ A curated list of awesome security tools, experimental case or other interesting
     - [Preventing](#preventing)
     - [Social Engineering](#social-engineering)
     - [Reverse Engineering](#reverse-engineering)
-    - [Fix](#Fix)
+    - [Fix](#fix)
+    - [Report](#report)
 - [Cases](#cases)
     - [Experimental](#experimental)
     - [Blogs](#blogs)
@@ -62,6 +63,10 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 ### Fix
 
 * [wolverine](https://github.com/biobootloader/wolverine) - Auto fix the bugs in your Python Script/Code
+
+### Report
+
+* [falco-gpt](https://github.com/Dentrax/falco-gpt) - AI-generated remediations for Falco audit events
 
 ## Cases
 
