@@ -45,6 +45,7 @@ A curated list of awesome security tools, experimental case or other interesting
 
 ### Detecting
 
+* [k8sgpt](https://github.com/k8sgpt-ai/k8sgpt/) - a tool for scanning your Kubernetes clusters, diagnosing, and triaging issues in simple English.
 * [cloudgpt](https://github.com/ustayready/cloudgpt) - Vulnerability scanner for AWS customer managed policies using ChatGPT
 * [IATelligence](https://github.com/fr0gger/IATelligence) - About
 IATelligence is a Python script that will extract the IAT of a PE file and request GPT to get more information about the API and the ATT&CK matrix related
