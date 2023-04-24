@@ -26,8 +26,8 @@ A curated list of awesome security tools, experimental case or other interesting
 
 ---
 ## Tools
----
-## 🧰 
+
+🧰 
 
 ### Audit
 
@@ -76,8 +76,8 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 
 ---
 ## Cases
----
-## 🌰 
+
+🌰 
 
 ### Experimental
 
@@ -104,8 +104,8 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 
 ---
 ## GPT Security
----
-## 🚨
+
+🚨
 
 ### Bypass Security Policy
 
