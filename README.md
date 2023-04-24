@@ -4,7 +4,7 @@ A curated list of awesome security tools, experimental case or other interesting
 
 ## Contents
 
-- [🧰 Tools](#🧰-tools)
+- [Tools](#tools)
     - [Audit](#audit)
     - [Reconnaissance](#reconnaissance)
     - [Offensive](#offensive)
@@ -14,19 +14,20 @@ A curated list of awesome security tools, experimental case or other interesting
     - [Reverse Engineering](#reverse-engineering)
     - [Fix](#fix)
     - [Report](#report)
-- [🌰 Cases](#🌰-cases)
+- [Cases](#cases)
     - [Experimental](#experimental)
     - [Academic](#academic)
     - [Blogs](#blogs)
     - [Fun](#fun)
-- [🚨 GPT Security](#🚨-gpt-security)
+- [GPT Security](#gpt-security)
     - [Bypass Security Policy](#bypass-security-policy)
     - [Bug Bounty](#bug-bounty)
 - [Contributing](#contributing)
 
 ---
-
-## 🧰 Tools
+## Tools
+---
+## 🧰 
 
 ### Audit
 
@@ -73,7 +74,10 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 
 * [falco-gpt](https://github.com/Dentrax/falco-gpt) - AI-generated remediations for Falco audit events
 
-## 🌰 Cases
+---
+## Cases
+---
+## 🌰 
 
 ### Experimental
 
@@ -98,7 +102,10 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 * [shortest prompt that will enable GPT to protect the secret key](https://gpd.43z.one/)
 * [a CTF-like game that teaches how to bypass LLM using language hacks](https://doublespeak.chat/#/)
 
-## 🚨 GPT Security
+---
+## GPT Security
+---
+## 🚨
 
 ### Bypass Security Policy
 
