@@ -16,6 +16,7 @@ A curated list of awesome security tools, experimental case or other interesting
     - [Report](#report)
 - [Cases](#cases)
     - [Experimental](#experimental)
+    - [Academic](#academic)
     - [Blogs](#blogs)
     - [Fun](#fun)
 - [Contributing](#contributing)
@@ -78,6 +79,10 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 * [Experimenting with GPT-3 for Detecting Security Vulnerabilities in Code](https://github.com/chris-koch-penn/gpt3_security_vulnerability_scanner)
 * [We put GPT-4 in Semgrep to point out false positives & fix code](https://semgrep.dev/blog/2023/gpt4-and-semgrep-detailed)
 * [ChatGPT Prompts for Bug Bounty & Pentesting](https://github.com/TakSec/chatgpt-prompts-bug-bounty)
+
+### Academic
+
+* [More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models](https://arxiv.org/abs/2302.12173)
 
 ### Blogs
 
