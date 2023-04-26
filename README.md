@@ -44,6 +44,7 @@ A curated list of awesome security tools, experimental case or other interesting
 
 ### Offensive
 
+* [PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
 * [burpgpt](https://github.com/aress31/burpgpt) - A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.
 * [ReconAIzer](https://github.com/hisxo/ReconAIzer) - A Burp Suite extension to add OpenAI (GPT) on Burp and help you with your Bug Bounty recon to discover endpoints, params, URLs, subdomains and more!
 * [PassGAN](https://github.com/brannondorsey/PassGAN) - A Deep Learning Approach for Password Guessing. [HomeSecurityHeroes land a Product](https://www.homesecurityheroes.com/ai-password-cracking/), and you can test how much time an AI would need to crack your password here.
@@ -86,6 +87,7 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 * [Experimenting with GPT-3 for Detecting Security Vulnerabilities in Code](https://github.com/chris-koch-penn/gpt3_security_vulnerability_scanner)
 * [We put GPT-4 in Semgrep to point out false positives & fix code](https://semgrep.dev/blog/2023/gpt4-and-semgrep-detailed)
 * [A Practical, AI-Generated Phishing PoC With ChatGPT](https://curtbraz.medium.com/a-practical-ai-generated-phishing-poc-f81d3c3da76b)
+* [Capturing the Flag with GPT-4](https://micahflee.com/2023/04/capturing-the-flag-with-gpt-4/)
 
 ### Academic
 
