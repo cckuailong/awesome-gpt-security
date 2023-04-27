@@ -24,7 +24,8 @@ A curated list of awesome security tools, experimental case or other interesting
     - [Bug Bounty](#bug-bounty)
 - [Contributing](#contributing)
 
----
+![](./media/aigc.jpg)
+
 ## Tools
 
 🧰 
@@ -91,10 +92,19 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 * [We put GPT-4 in Semgrep to point out false positives & fix code](https://semgrep.dev/blog/2023/gpt4-and-semgrep-detailed)
 * [A Practical, AI-Generated Phishing PoC With ChatGPT](https://curtbraz.medium.com/a-practical-ai-generated-phishing-poc-f81d3c3da76b)
 * [Capturing the Flag with GPT-4](https://micahflee.com/2023/04/capturing-the-flag-with-gpt-4/)
+* [I Used GPT-3 to Find 213 Security Vulnerabilities in a Single Codebase](https://betterprogramming.pub/i-used-gpt-3-to-find-213-security-vulnerabilities-in-a-single-codebase-cc3870ba9411)
+* [Using ChatGPT to generate encoder and supporting WebShell](https://mp.weixin.qq.com/s/I9IhkZZ3YrxblWIxWMXAWA)
+* [Using OpenAI Chat to Generate Phishing Campaigns](https://www.richardosgood.com/posts/using-openai-chat-for-phishing/) -- Include Phishing Platform
 
 ### Academic
 
+* [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774) -- OpenAI's own security assessment and mitigation of the model
+* [Ignore Previous Prompt: Attack Techniques For Language Models](https://arxiv.org/pdf/2211.09527.pdf) -- Pioneering work of Prompt Injection
 * [More than you've asked for: A Comprehensive Analysis of Novel Prompt Injection Threats to Application-Integrated Large Language Models](https://arxiv.org/abs/2302.12173)
+* [RealToxicityPrompts: Evaluating Neural Toxic Degeneration in Language Models](https://arxiv.org/pdf/2009.11462.pdf)
+* [Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks](https://arxiv.org/pdf/2302.05733.pdf)
+* [Red Teaming Language Models to Reduce Harms: Methods, Scaling Behaviors, and Lessons Learned](https://arxiv.org/pdf/2209.07858.pdf)
+* [Can We Generate Shellcodes via Natural Language? An Empirical Study](https://link.springer.com/article/10.1007/s10515-022-00331-3)
 
 ### Blogs
 
@@ -119,6 +129,7 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 
 ### Bug Bounty
 
+* [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/) -- deprecated but interesting
 * [LangChain vulnerable to code injection -- CVE-2023-29374](https://github.com/advisories/GHSA-fprp-p869-w6q2)
 
 # Contributing
