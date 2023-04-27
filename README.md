@@ -13,7 +13,7 @@ A curated list of awesome security tools, experimental case or other interesting
     - [Social Engineering](#social-engineering)
     - [Reverse Engineering](#reverse-engineering)
     - [Fix](#fix)
-    - [Report](#report)
+    - [Assessment](#assessment)
 - [Cases](#cases)
     - [Experimental](#experimental)
     - [Academic](#academic)
@@ -35,6 +35,7 @@ A curated list of awesome security tools, experimental case or other interesting
 * [ChatGPTScanner](https://github.com/YulinSec/ChatGPTScanner) - A white box code scan powered by ChatGPT
 * [chatgpt-code-analyzer](https://github.com/MilindPurswani/chatgpt-code-analyzer) - ChatGPT Code Analyzer for Visual Studio Code
 * [hacker-ai](https://hacker-ai.ai/#hacker-ai) - An online tool using AI to detect vulnerabilities in source code
+* [audit_gpt](https://github.com/fuzzland/audit_gpt) - Fine-tuning GPT for Smart Contract Auditing
 
 ### Reconnaissance
 
@@ -48,6 +49,7 @@ A curated list of awesome security tools, experimental case or other interesting
 * [burpgpt](https://github.com/aress31/burpgpt) - A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.
 * [ReconAIzer](https://github.com/hisxo/ReconAIzer) - A Burp Suite extension to add OpenAI (GPT) on Burp and help you with your Bug Bounty recon to discover endpoints, params, URLs, subdomains and more!
 * [PassGAN](https://github.com/brannondorsey/PassGAN) - A Deep Learning Approach for Password Guessing. [HomeSecurityHeroes land a Product](https://www.homesecurityheroes.com/ai-password-cracking/), and you can test how much time an AI would need to crack your password here.
+* [nuclei_gpt](https://github.com/sf197/nuclei_gpt) - Only need to submit the relevant Request and Response and the description of the vulnerability to generate a Nuclei PoC.
 
 ### Detecting
 
@@ -71,9 +73,10 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 
 * [wolverine](https://github.com/biobootloader/wolverine) - Auto fix the bugs in your Python Script/Code
 
-### Report
+### Assessment
 
 * [falco-gpt](https://github.com/Dentrax/falco-gpt) - AI-generated remediations for Falco audit events
+* [selefra](https://github.com/selefra/selefra) - an open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
 
 ---
 ## Cases
