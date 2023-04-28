@@ -1,6 +1,6 @@
-Appreciate and recognize [all contributors](https://github.com/qazbnm456/awesome-web-security/graphs/contributors).
+Appreciate and recognize [all contributors](https://github.com/cckuailong/awesome-gpt-security/graphs/contributors).
 
-Please note that this project is released with a [Contributor Code of Conduct](https://github.com/qazbnm456/awesome-web-security/blob/master/code-of-conduct.md). By participating in this project you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](https://github.com/cckuailong/awesome-gpt-security/blob/master/code-of-conduct.md). By participating in this project you agree to abide by its terms.
 
 # Table of Contents
 
@@ -20,7 +20,7 @@ Please note that this project is released with a [Contributor Code of Conduct](h
 - want to try something else: Submit a pull request
 - don't know what to do: Submit a pull request or open an issue, let us know what's going on.
 
-`awesome-web-security` is a hand-crafted list for high-quality information about web security and its resources. It would be nice if it is related or compatible with web security in some way. But if it's awesome, let's us know why and you're on!
+`awesome-gpt-security` is a curated list of awesome security tools, experimental case or other interesting things with LLM or GPT. But if it's awesome, let's us know why and you're on!
 
 - Each item should be limited to one link, no duplicates, no redirection (careful with `http` vs `https`!)
 - The link should be the name of the slide or project or website
