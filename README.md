@@ -22,6 +22,7 @@ A curated list of awesome security tools, experimental case or other interesting
 - [GPT Security](#gpt-security)
     - [Bypass Security Policy](#bypass-security-policy)
     - [Bug Bounty](#bug-bounty)
+    - [Crack](#crack)
 - [Contributing](#contributing)
 
 ![](./media/aigc.jpg)
@@ -131,6 +132,11 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 
 * [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/) -- deprecated but interesting
 * [LangChain vulnerable to code injection -- CVE-2023-29374](https://github.com/advisories/GHSA-fprp-p869-w6q2)
+
+### Crack
+
+* [gpt4free](https://github.com/xtekky/gpt4free) -- Just API's from some language model sites.
+* [EdgeGPT](https://github.com/acheong08/EdgeGPT) -- Reverse engineered API of Microsoft's Bing Chat AI
 
 # Contributing
 
