@@ -96,6 +96,7 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 * [I Used GPT-3 to Find 213 Security Vulnerabilities in a Single Codebase](https://betterprogramming.pub/i-used-gpt-3-to-find-213-security-vulnerabilities-in-a-single-codebase-cc3870ba9411)
 * [Using ChatGPT to generate encoder and supporting WebShell](https://mp.weixin.qq.com/s/I9IhkZZ3YrxblWIxWMXAWA)
 * [Using OpenAI Chat to Generate Phishing Campaigns](https://www.richardosgood.com/posts/using-openai-chat-for-phishing/) -- Include Phishing Platform
+* [Chat4GPT Experiments for Security](https://github.com/mesutgungor/ChatGPT4Security)
 
 ### Academic
 
