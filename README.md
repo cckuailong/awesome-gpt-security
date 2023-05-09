@@ -5,24 +5,25 @@ A curated list of awesome security tools, experimental case or other interesting
 ## Contents
 
 - [Tools](#tools)
-    - [Audit](#audit)
-    - [Reconnaissance](#reconnaissance)
-    - [Offensive](#offensive)
-    - [Detecting](#detecting)
-    - [Preventing](#preventing)
-    - [Social Engineering](#social-engineering)
-    - [Reverse Engineering](#reverse-engineering)
-    - [Fix](#fix)
-    - [Assessment](#assessment)
+  - [Audit](#audit)
+  - [Reconnaissance](#reconnaissance)
+  - [Offensive](#offensive)
+  - [Detecting](#detecting)
+  - [Preventing](#preventing)
+  - [Social Engineering](#social-engineering)
+  - [Reverse Engineering](#reverse-engineering)
+  - [Fix](#fix)
+  - [Assessment](#assessment)
 - [Cases](#cases)
-    - [Experimental](#experimental)
-    - [Academic](#academic)
-    - [Blogs](#blogs)
-    - [Fun](#fun)
+  - [Experimental](#experimental)
+  - [Academic](#academic)
+  - [Blogs](#blogs)
+  - [Fun](#fun)
 - [GPT Security](#gpt-security)
-    - [Bypass Security Policy](#bypass-security-policy)
-    - [Bug Bounty](#bug-bounty)
-    - [Crack](#crack)
+  - [Bypass Security Policy](#bypass-security-policy)
+  - [Bug Bounty](#bug-bounty)
+  - [Crack](#crack)
+  - [Plugin Security](#plugin-security)
 - [Contributing](#contributing)
 
 ![](./media/aigc.jpg)
@@ -138,6 +139,9 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 
 * [gpt4free](https://github.com/xtekky/gpt4free) -- Just API's from some language model sites.
 * [EdgeGPT](https://github.com/acheong08/EdgeGPT) -- Reverse engineered API of Microsoft's Bing Chat AI
+
+### Plugin Security
+* [SecureGPT](https://escape.tech/securegpt) – Dynamically test the security of your ChatGPT Plugins APIs (Free DAST for ChatGPT Plugins).
 
 # Contributing
 
