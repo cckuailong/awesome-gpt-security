@@ -54,6 +54,7 @@ A curated list of awesome security tools, experimental case or other interesting
 * [ReconAIzer](https://github.com/hisxo/ReconAIzer) - A Burp Suite extension to add OpenAI (GPT) on Burp and help you with your Bug Bounty recon to discover endpoints, params, URLs, subdomains and more!
 * [PassGAN](https://github.com/brannondorsey/PassGAN) - A Deep Learning Approach for Password Guessing. [HomeSecurityHeroes land a Product](https://www.homesecurityheroes.com/ai-password-cracking/), and you can test how much time an AI would need to crack your password here.
 * [nuclei_gpt](https://github.com/sf197/nuclei_gpt) - Only need to submit the relevant Request and Response and the description of the vulnerability to generate a Nuclei PoC.
+* [hackGPT](https://github.com/NoDataFound/hackGPT) - Leverage OpenAI and ChatGPT to do hackerish things
 
 ### Detecting
 
