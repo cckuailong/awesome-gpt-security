@@ -39,6 +39,7 @@ A curated list of awesome security tools, experimental case or other interesting
 * [chatgpt-code-analyzer](https://github.com/MilindPurswani/chatgpt-code-analyzer) - ChatGPT Code Analyzer for Visual Studio Code
 * [hacker-ai](https://hacker-ai.ai/#hacker-ai) - An online tool using AI to detect vulnerabilities in source code
 * [audit_gpt](https://github.com/fuzzland/audit_gpt) - Fine-tuning GPT for Smart Contract Auditing
+* [vulchatgpt](https://github.com/ke0z/vulchatgpt) - Use IDA PRO HexRays decompiler with OpenAI(ChatGPT) to find possible vulnerabilities in binaries
 
 ### Reconnaissance
 
@@ -47,6 +48,8 @@ A curated list of awesome security tools, experimental case or other interesting
 * [SubGPT](https://github.com/s0md3v/SubGPT) - SubGPT looks at subdomains you have already discovered for a domain and uses BingGPT to find more.
 * [Navi](https://github.com/SSGOrg/Navi) - A QA based Reconnaissance Tool with GPT
 * [ChatCVE](https://github.com/jasona7/ChatCVE) - The ChatCVE Lang Chain App is an AI-powered devSecOps application 🔍, for oganizations triaging and aggregating CVE (Common Vulnerabilities and Exposures) information.
+* [ZoomeyeGPT](https://github.com/knownsec/ZoomeyeGPT) - ZoomEyeGPT browser extension is a GPT-based Chrome browser extension designed to bring AI-assisted search experience to ZoomEye users.
+* [uncover-turbo](https://github.com/zt2/uncover-turbo) - Realize a general-purpose natural language surveying and mapping engine, and open up the last mile from natural language to surveying and mapping grammar.
 
 ### Offensive
 
