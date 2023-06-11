@@ -12,6 +12,7 @@ A curated list of awesome security tools, experimental case or other interesting
   - [Preventing](#preventing)
   - [Social Engineering](#social-engineering)
   - [Reverse Engineering](#reverse-engineering)
+  - [Investigation](#investigation)
   - [Fix](#fix)
   - [Assessment](#assessment)
 - [Cases](#cases)
@@ -80,6 +81,10 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up reverse-engineering
 * [gpt-wpre](https://github.com/moyix/gpt-wpre) - Whole-Program Reverse Engineering with GPT-3
 * [G-3PO](https://github.com/tenable/ghidra_tools/tree/main/g3po) - A Script that Solicits GPT-3 for Comments on Decompiled Code
+
+### Investigation
+
+* [beelzebub](https://github.com/mariocandela/beelzebub) - Go-Based Low-Code Honeypot Framework with Enhanced Security, Leveraging GPT-3 for System Virtualization
 
 ### Fix
 
