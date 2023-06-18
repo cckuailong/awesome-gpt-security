@@ -165,3 +165,12 @@ Your contributions are always welcome! Please take a look at the [contribution g
 - - -
 
 If you have any question about this opinionated list, do not hesitate to open an issue on GitHub.
+
+<p align="center">
+<a href="https://github.com/cckuailong/awesome-gpt-security/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=cckuailong/awesome-gpt-security&max=100">
+</a>
+</p>
+
+
+Thanks again for your contribution and keeping this community vibrant. :heart:
