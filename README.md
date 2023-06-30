@@ -128,6 +128,7 @@ IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up rever
 * [Dissecting redis CVE-2023-28425 with chatGPT as assistant](https://tin-z.github.io/redis/cve/chatgpt/2023/04/02/redis-cve2023.html)
 * [Security Code Review With ChatGPT](https://research.nccgroup.com/2023/02/09/security-code-review-with-chatgpt/)
 * [ChatGPT happy to write ransomware, just really bad at it](https://www.malwarebytes.com/blog/news/2023/03/chatgpt-happy-to-write-ransomware-just-really-bad-at-it?utm_source=blueshift&utm_medium=email&utm_campaign=b2c_pro_oth_20230403_aprilweeklynewsletter_v1_168025968119&utm_content=chatgpt_ransomware)
+* [Create ATT&CK Groups Knowledge Base](https://otrf.github.io/GPT-Security-Adventures/experiments/ATTCK-GPT/notebook.html)
 
 ### Fun
 
