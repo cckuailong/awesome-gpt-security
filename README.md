@@ -29,6 +29,10 @@ A curated list of awesome security tools, experimental case or other interesting
 
 ![](./media/aigc.jpg)
 
+## Attention
+
+Here is [A nice tool](https://github.com/cckuailong/SuperAdapters) to Finetune ALL LLMs with ALL Adapeters on ALL Platforms! 
+
 ## Tools
 
 🧰 
