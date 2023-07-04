@@ -67,7 +67,7 @@ Here is [A nice tool](https://github.com/cckuailong/SuperAdapters) to Finetune A
 * [hackGPT](https://github.com/NoDataFound/hackGPT) - Leverage OpenAI and ChatGPT to do hackerish things
 
 ### Detecting
-
+* [beelzebub honeypot](https://github.com/mariocandela/beelzebub) - Beelzebub is an advanced honeypot framework designed to provide a highly secure environment for detecting and analyzing cyber attacks. It offers a low code approach for easy implementation and utilizes virtualization techniques powered by GPT-3.
 * [k8sgpt](https://github.com/k8sgpt-ai/k8sgpt/) - a tool for scanning your Kubernetes clusters, diagnosing, and triaging issues in simple English.
 * [cloudgpt](https://github.com/ustayready/cloudgpt) - Vulnerability scanner for AWS customer managed policies using ChatGPT
 * [IATelligence](https://github.com/fr0gger/IATelligence) - About
