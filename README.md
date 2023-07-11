@@ -116,6 +116,7 @@ IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up rever
 * [Using ChatGPT to generate encoder and supporting WebShell](https://mp.weixin.qq.com/s/I9IhkZZ3YrxblWIxWMXAWA)
 * [Using OpenAI Chat to Generate Phishing Campaigns](https://www.richardosgood.com/posts/using-openai-chat-for-phishing/) -- Include Phishing Platform
 * [Chat4GPT Experiments for Security](https://github.com/mesutgungor/ChatGPT4Security)
+* [GPT-3 use cases for Cybersecurity](https://github.com/sophos/gpt3-and-cybersecurity)
 
 ### Academic
 
