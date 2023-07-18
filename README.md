@@ -149,6 +149,7 @@ IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up rever
 
 * [Chat GPT "DAN" (and other "Jailbreaks")](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516)
 * [ChatGPT Prompts for Bug Bounty & Pentesting](https://github.com/TakSec/chatgpt-prompts-bug-bounty)
+* [promptmap](https://github.com/utkusen/promptmap) - automatically tests prompt injection attacks on ChatGPT instances
 
 ### Bug Bounty
 
