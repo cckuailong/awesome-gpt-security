@@ -98,6 +98,7 @@ IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up rever
 
 * [falco-gpt](https://github.com/Dentrax/falco-gpt) - AI-generated remediations for Falco audit events
 * [selefra](https://github.com/selefra/selefra) - an open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
+* [openai-cti-summarizer](https://github.com/EC-DIGIT-CSIRC/openai-cti-summarizer) - openai-cti-summarizer is a tool for generating threat intelligence summary reports based on OpenAI's GPT-3.5 and GPT-4 API
 
 ---
 ## Cases
