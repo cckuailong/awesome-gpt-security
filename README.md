@@ -5,6 +5,7 @@ A curated list of awesome security tools, experimental case or other interesting
 ## Contents
 
 - [Tools](#tools)
+  - [Integrated](#integrated)
   - [Audit](#audit)
   - [Reconnaissance](#reconnaissance)
   - [Offensive](#offensive)
@@ -36,6 +37,11 @@ Here is [A nice tool](https://github.com/cckuailong/SuperAdapters) to Finetune A
 ## Tools
 
 🧰 
+
+### Integrated
+
+* [SecGPT](https://github.com/ZacharyZcR/SecGPT) - SecGPT aims to make further contributions to network security by combining LLM, including penetration testing, red-blue confrontations, CTF competitions, and other aspects.
+* [AutoAudit](https://github.com/ddzipp/AutoAudit) - An LLM for Cyber Security
 
 ### Audit
 
@@ -72,6 +78,9 @@ Here is [A nice tool](https://github.com/cckuailong/SuperAdapters) to Finetune A
 * [cloudgpt](https://github.com/ustayready/cloudgpt) - Vulnerability scanner for AWS customer managed policies using ChatGPT
 * [IATelligence](https://github.com/fr0gger/IATelligence) - About
 IATelligence is a Python script that will extract the IAT of a PE file and request GPT to get more information about the API and the ATT&CK matrix related
+* [rebuff](https://github.com/protectai/rebuff) - Prompt Injection Detector.
+* [Callisto](https://github.com/JetP1ane/Callisto) - An Intelligent Automated Binary Vulnerability Analysis Tool.
+* [LLMFuzzer](https://github.com/mnns/LLMFuzzer) - LLMFuzzer is the first open-source fuzzing framework specifically designed for Large Language Models (LLMs), especially for their integrations in applications via LLM APIs.
 
 ### Preventing
 
@@ -140,6 +149,7 @@ IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up rever
 
 * [shortest prompt that will enable GPT to protect the secret key](https://gpd.43z.one/)
 * [a CTF-like game that teaches how to bypass LLM using language hacks](https://doublespeak.chat/#/)
+* [ai-goat](https://github.com/dhammon/ai-goat) - Learn AI security through a series of vulnerable LLM CTF challenges.
 
 ---
 ## GPT Security
