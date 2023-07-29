@@ -22,6 +22,7 @@ A curated list of awesome security tools, experimental case or other interesting
   - [Blogs](#blogs)
   - [Fun](#fun)
 - [GPT Security](#gpt-security)
+  - [Standard](#standard)
   - [Bypass Security Policy](#bypass-security-policy)
   - [Bug Bounty](#bug-bounty)
   - [Crack](#crack)
@@ -156,11 +157,19 @@ IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up rever
 
 🚨
 
+### Standard
+
+* [ATT&CK for LLM Apps](https://atlas.mitre.org/)
+* [The OWASP Top 10 for Large Language Model Applications project](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
+* [Google AI Red Team](https://services.google.com/fh/files/blogs/google_ai_red_team_digital_final.pdf)
+
 ### Bypass Security Policy
 
 * [Chat GPT "DAN" (and other "Jailbreaks")](https://gist.github.com/coolaj86/6f4f7b30129b0251f61fa7baaa881516)
 * [ChatGPT Prompts for Bug Bounty & Pentesting](https://github.com/TakSec/chatgpt-prompts-bug-bounty)
 * [promptmap](https://github.com/utkusen/promptmap) - automatically tests prompt injection attacks on ChatGPT instances
+* [Use "Typoglycemia" to Bypass the LLM's Security Policy](https://mp.weixin.qq.com/s?__biz=MzkwNDI1NDUwMQ==&mid=2247486630&idx=1&sn=814af2fb7a06e5283b026c6483c47b07)
+* [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://llm-attacks.org/)
 
 ### Bug Bounty
 
