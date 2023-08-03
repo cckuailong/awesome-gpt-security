@@ -52,6 +52,7 @@ Here is [A nice tool](https://github.com/cckuailong/SuperAdapters) to Finetune A
 * [hacker-ai](https://hacker-ai.ai/#hacker-ai) - An online tool using AI to detect vulnerabilities in source code
 * [audit_gpt](https://github.com/fuzzland/audit_gpt) - Fine-tuning GPT for Smart Contract Auditing
 * [vulchatgpt](https://github.com/ke0z/vulchatgpt) - Use IDA PRO HexRays decompiler with OpenAI(ChatGPT) to find possible vulnerabilities in binaries
+* [Ret2GPT](https://github.com/DDizzzy79/Ret2GPT) - Advanced AI-powered binary analysis tool leveraging OpenAI's LangChain technology, revolutionizing CTF Pwners' experience in binary file interpretation and vulnerability detection.
 
 ### Reconnaissance
 
