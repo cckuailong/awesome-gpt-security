@@ -63,6 +63,7 @@ Here is [A nice tool](https://github.com/cckuailong/SuperAdapters) to Finetune A
 * [ChatCVE](https://github.com/jasona7/ChatCVE) - The ChatCVE Lang Chain App is an AI-powered devSecOps application 🔍, for oganizations triaging and aggregating CVE (Common Vulnerabilities and Exposures) information.
 * [ZoomeyeGPT](https://github.com/knownsec/ZoomeyeGPT) - ZoomEyeGPT browser extension is a GPT-based Chrome browser extension designed to bring AI-assisted search experience to ZoomEye users.
 * [uncover-turbo](https://github.com/zt2/uncover-turbo) - Realize a general-purpose natural language surveying and mapping engine, and open up the last mile from natural language to surveying and mapping grammar.
+* [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT) - AI-Driven Software Development Automation Solution
 
 ### Offensive
 
