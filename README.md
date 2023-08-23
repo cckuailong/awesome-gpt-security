@@ -148,6 +148,7 @@ IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up rever
 * [Security Code Review With ChatGPT](https://research.nccgroup.com/2023/02/09/security-code-review-with-chatgpt/)
 * [ChatGPT happy to write ransomware, just really bad at it](https://www.malwarebytes.com/blog/news/2023/03/chatgpt-happy-to-write-ransomware-just-really-bad-at-it?utm_source=blueshift&utm_medium=email&utm_campaign=b2c_pro_oth_20230403_aprilweeklynewsletter_v1_168025968119&utm_content=chatgpt_ransomware)
 * [Create ATT&CK Groups Knowledge Base](https://otrf.github.io/GPT-Security-Adventures/experiments/ATTCK-GPT/notebook.html)
+* [Model Confusion - Weaponizing ML models for red teams and bounty hunters](https://5stars217.github.io/2023-08-08-red-teaming-with-ml-models/)
 
 ### Fun
 
@@ -173,6 +174,7 @@ IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up rever
 * [promptmap](https://github.com/utkusen/promptmap) - automatically tests prompt injection attacks on ChatGPT instances
 * [Use "Typoglycemia" to Bypass the LLM's Security Policy](https://mp.weixin.qq.com/s?__biz=MzkwNDI1NDUwMQ==&mid=2247486630&idx=1&sn=814af2fb7a06e5283b026c6483c47b07)
 * [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://llm-attacks.org/)
+* [promptbench](https://github.com/microsoft/promptbench) - A robustness evaluation framework for large language models on adversarial prompts
 
 ### Bug Bounty
 
