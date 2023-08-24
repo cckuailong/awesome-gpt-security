@@ -131,6 +131,7 @@ IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up rever
 * [Using OpenAI Chat to Generate Phishing Campaigns](https://www.richardosgood.com/posts/using-openai-chat-for-phishing/) -- Include Phishing Platform
 * [Chat4GPT Experiments for Security](https://github.com/mesutgungor/ChatGPT4Security)
 * [GPT-3 use cases for Cybersecurity](https://github.com/sophos/gpt3-and-cybersecurity)
+* [AI-Powered Fuzzing: Breaking the Bug Hunting Barrier](https://security.googleblog.com/2023/08/ai-powered-fuzzing-breaking-bug-hunting.html)
 
 ### Academic
 
@@ -149,6 +150,7 @@ IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up rever
 * [ChatGPT happy to write ransomware, just really bad at it](https://www.malwarebytes.com/blog/news/2023/03/chatgpt-happy-to-write-ransomware-just-really-bad-at-it?utm_source=blueshift&utm_medium=email&utm_campaign=b2c_pro_oth_20230403_aprilweeklynewsletter_v1_168025968119&utm_content=chatgpt_ransomware)
 * [Create ATT&CK Groups Knowledge Base](https://otrf.github.io/GPT-Security-Adventures/experiments/ATTCK-GPT/notebook.html)
 * [Model Confusion - Weaponizing ML models for red teams and bounty hunters](https://5stars217.github.io/2023-08-08-red-teaming-with-ml-models/)
+* [Using LLMs to reverse JavaScript variable name minification](https://thejunkland.com/blog/using-llms-to-reverse-javascript-minification)
 
 ### Fun
 
