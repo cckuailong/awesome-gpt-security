@@ -183,13 +183,14 @@ IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up rever
 
 ### Bug Bounty
 
-* [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/) -- deprecated but interesting
+* [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/) - deprecated but interesting
 * [LangChain vulnerable to code injection -- CVE-2023-29374](https://github.com/advisories/GHSA-fprp-p869-w6q2)
 
 ### Crack
 
-* [gpt4free](https://github.com/xtekky/gpt4free) -- Just API's from some language model sites.
-* [EdgeGPT](https://github.com/acheong08/EdgeGPT) -- Reverse engineered API of Microsoft's Bing Chat AI
+* [gpt4free](https://github.com/xtekky/gpt4free) - Just API's from some language model sites.
+* [EdgeGPT](https://github.com/acheong08/EdgeGPT) - Reverse engineered API of Microsoft's Bing Chat AI
+* [GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 
 ### Plugin Security
 
