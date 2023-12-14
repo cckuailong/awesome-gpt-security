@@ -171,6 +171,7 @@ IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up rever
 * [ATT&CK for LLM Apps](https://atlas.mitre.org/)
 * [The OWASP Top 10 for Large Language Model Applications project](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 * [Google AI Red Team](https://services.google.com/fh/files/blogs/google_ai_red_team_digital_final.pdf)
+* [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) - Empowering developers, advancing safety, and building an open ecosystem
 
 ### Bypass Security Policy
 
