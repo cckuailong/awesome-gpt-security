@@ -109,6 +109,7 @@ IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up rever
 ### Fix
 
 * [wolverine](https://github.com/biobootloader/wolverine) - Auto fix the bugs in your Python Script/Code
+* [Pixee](https://pixee.ai) - Pixeebot finds security and code quality issues in your code and creates merge-ready pull requests with recommended fixes
 
 ### Assessment
 
