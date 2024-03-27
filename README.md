@@ -29,7 +29,7 @@ A curated list of awesome security tools, experimental case or other interesting
   - [Plugin Security](#plugin-security)
 - [Contributing](#contributing)
 
-![](./media/aigc.jpg)
+![](./media/aigc.png)
 
 ## Attention
 
@@ -44,6 +44,7 @@ Here is [A nice tool](https://github.com/cckuailong/SuperAdapters) to Finetune A
 * [SecGPT](https://github.com/ZacharyZcR/SecGPT) - SecGPT aims to make further contributions to network security by combining LLM, including penetration testing, red-blue confrontations, CTF competitions, and other aspects.
 * [AutoAudit](https://github.com/ddzipp/AutoAudit) - An LLM for Cyber Security
 * [secgpt](https://github.com/Clouditera/secgpt) - Cyber security LLM(Lora finetuned with baichuan-13B using some material of cyber security)
+* [HackerGPT-2.0](https://github.com/Hacker-GPT/HackerGPT-2.0) - HackerGPT is your indispensable digital companion in the world of hacking. 
 
 ### Audit
 
@@ -97,6 +98,7 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 
 ### Reverse Engineering
 
+* [LLM4Decompile](https://github.com/albertan017/LLM4Decompile) - Reverse Engineering: Decompiling Binary Code with Large Language Models
 * [Gepetto](https://github.com/JusticeRage/Gepetto) - About
 IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up reverse-engineering
 * [gpt-wpre](https://github.com/moyix/gpt-wpre) - Whole-Program Reverse Engineering with GPT-3
