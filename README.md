@@ -2,8 +2,6 @@
 
 A curated list of awesome security tools, experimental case or other interesting things with LLM or GPT.
 
-_Check out [**securityfrontiers.ai**](https://www.securityfrontiers.ai/) a community of people who are building and leveraging **Gen AI for cybersecurity**. First virtual event on **4/18**._
-
 ## Contents
 
 - [Tools](#tools)
