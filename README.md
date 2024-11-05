@@ -49,6 +49,7 @@ Here is [A nice tool](https://github.com/cckuailong/SuperAdapters) to Finetune A
 ### Audit
 
 * [SourceGPT](https://github.com/NightmareLab/SourceGPT) - prompt manager and source code analyzer built on top of ChatGPT as the oracle
+* [vulnhuntr](https://github.com/protectai/vulnhuntr) - Zero shot vulnerability discovery using LLMs
 * [ChatGPTScanner](https://github.com/YulinSec/ChatGPTScanner) - A white box code scan powered by ChatGPT
 * [chatgpt-code-analyzer](https://github.com/MilindPurswani/chatgpt-code-analyzer) - ChatGPT Code Analyzer for Visual Studio Code
 * [hacker-ai](https://hacker-ai.ai/#hacker-ai) - An online tool using AI to detect vulnerabilities in source code
@@ -170,6 +171,7 @@ IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up rever
 
 ### Standard
 
+* [modelscan](https://github.com/protectai/modelscan) - Protection against Model Serialization Attacks
 * [ATT&CK for LLM Apps](https://atlas.mitre.org/)
 * [The OWASP Top 10 for Large Language Model Applications project](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 * [Google AI Red Team](https://services.google.com/fh/files/blogs/google_ai_red_team_digital_final.pdf)
@@ -186,11 +188,13 @@ IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up rever
 * [Use "Typoglycemia" to Bypass the LLM's Security Policy](https://mp.weixin.qq.com/s?__biz=MzkwNDI1NDUwMQ==&mid=2247486630&idx=1&sn=814af2fb7a06e5283b026c6483c47b07)
 * [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://llm-attacks.org/)
 * [promptbench](https://github.com/microsoft/promptbench) - A robustness evaluation framework for large language models on adversarial prompts
+* [jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
 
 ### Bug Bounty
 
 * [Building A Virtual Machine inside ChatGPT](https://www.engraved.blog/building-a-virtual-machine-inside/) - deprecated but interesting
 * [LangChain vulnerable to code injection -- CVE-2023-29374](https://github.com/advisories/GHSA-fprp-p869-w6q2)
+* [ai-exploits](https://github.com/protectai/ai-exploits) - A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities
 
 ### Crack
 
