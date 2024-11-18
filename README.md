@@ -177,7 +177,7 @@ IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up rever
 * [Google AI Red Team](https://services.google.com/fh/files/blogs/google_ai_red_team_digital_final.pdf)
 * [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) - Empowering developers, advancing safety, and building an open ecosystem
 * [agentic_security](https://github.com/msoedov/agentic_security) - Agentic LLM Vulnerability Scanner
-* [garak](https://github.com/leondz/garak) - LLM vulnerability scanner
+* [garak](https://github.com/NVIDIA/garak) - LLM vulnerability scanner
 * [inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) - Inspect: A framework for large language model evaluations
 
 ### Bypass Security Policy
