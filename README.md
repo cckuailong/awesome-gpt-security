@@ -56,6 +56,7 @@ Here is [A nice tool](https://github.com/cckuailong/SuperAdapters) to Finetune A
 * [audit_gpt](https://github.com/fuzzland/audit_gpt) - Fine-tuning GPT for Smart Contract Auditing
 * [vulchatgpt](https://github.com/ke0z/vulchatgpt) - Use IDA PRO HexRays decompiler with OpenAI(ChatGPT) to find possible vulnerabilities in binaries
 * [Ret2GPT](https://github.com/DDizzzy79/Ret2GPT) - Advanced AI-powered binary analysis tool leveraging OpenAI's LangChain technology, revolutionizing CTF Pwners' experience in binary file interpretation and vulnerability detection.
+* [AuthzAI](https://github.com/ngalongc/AuthzAI) - An automated tool to test and analyze API endpoints for potential permission model violations using OpenAI structured outputs.
 
 ### Reconnaissance
 
@@ -79,6 +80,7 @@ Here is [A nice tool](https://github.com/cckuailong/SuperAdapters) to Finetune A
 * [nuclei_gpt](https://github.com/sf197/nuclei_gpt) - Only need to submit the relevant Request and Response and the description of the vulnerability to generate a Nuclei PoC.
 * [Nuclei Templates AI Generator](https://templates.nuclei.sh/) -- Create Nuclei templates by textual description (e.g., vulnerability scanners by PoC).
 * [hackGPT](https://github.com/NoDataFound/hackGPT) - Leverage OpenAI and ChatGPT to do hackerish things
+* [AutorizePro](https://github.com/sule01u/AutorizePro) - AutorizePro is a authorization enforcement detection extension for burp suite. By adding Ai-assisted analysis, it significantly reduces the false positive rate and improves the efficiency of vulnerability detection.
 
 ### Detecting
 
