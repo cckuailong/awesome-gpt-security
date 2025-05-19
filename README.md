@@ -160,6 +160,7 @@ IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up rever
 * [Create ATT&CK Groups Knowledge Base](https://otrf.github.io/GPT-Security-Adventures/experiments/ATTCK-GPT/notebook.html)
 * [Model Confusion - Weaponizing ML models for red teams and bounty hunters](https://5stars217.github.io/2023-08-08-red-teaming-with-ml-models/)
 * [Using LLMs to reverse JavaScript variable name minification](https://thejunkland.com/blog/using-llms-to-reverse-javascript-minification)
+* [CircleGuardBench - A full-fledged benchmark for evaluating protection capabilities of AI models](https://huggingface.co/blog/whitecircle-ai/circleguardbench)
 
 ### Fun
 
