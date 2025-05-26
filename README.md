@@ -57,6 +57,7 @@ Here is [A nice tool](https://github.com/cckuailong/SuperAdapters) to Finetune A
 * [vulchatgpt](https://github.com/ke0z/vulchatgpt) - Use IDA PRO HexRays decompiler with OpenAI(ChatGPT) to find possible vulnerabilities in binaries
 * [Ret2GPT](https://github.com/DDizzzy79/Ret2GPT) - Advanced AI-powered binary analysis tool leveraging OpenAI's LangChain technology, revolutionizing CTF Pwners' experience in binary file interpretation and vulnerability detection.
 * [AuthzAI](https://github.com/ngalongc/AuthzAI) - An automated tool to test and analyze API endpoints for potential permission model violations using OpenAI structured outputs.
+* [Vulert](Vulert.com) - Vulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more.
 * [SinkFinder](https://github.com/Phelaine/SinkFinder) - Semi-automatic vulnerability mining tool for closed-source systems, static code analysis for jar/war/zip, adding LLM large model capability to verify path accessibility, LLM determines the trust score of the path based on the context code environment
 
 ### Reconnaissance
