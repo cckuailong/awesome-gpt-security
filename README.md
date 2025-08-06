@@ -73,8 +73,10 @@ Here is [A nice tool](https://github.com/cckuailong/SuperAdapters) to Finetune A
 ### Offensive
 
 * [PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
+* [HackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT): LLMs x PenTesting, focus on linux priv-esc adn web/web-api pentesting
 * [burpgpt](https://github.com/aress31/burpgpt) - A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.
 * [ReconAIzer](https://github.com/hisxo/ReconAIzer) - A Burp Suite extension to add OpenAI (GPT) on Burp and help you with your Bug Bounty recon to discover endpoints, params, URLs, subdomains and more!
+  * [Cochise](https://github.com/andreashappe/cochise/): LLM-agent performing autonomous penetration test against Microsoft Windows Active Directory (using [GOAD](https://github.com/Orange-Cyberdefense/GOAD) as testbed).
 * [CodaMOSA](https://github.com/microsoft/codamosa) - CodaMOSA is the paper code of CodaMOSA: Escaping Coverage Plateaus in Test Generation with Pre-trained Large Language Models. It implements a fuzzer combined with OpenAI API, aiming to alleviate the problem of stagnant coverage in traditional fuzz.
 * [PassGAN](https://github.com/brannondorsey/PassGAN) - A Deep Learning Approach for Password Guessing. [HomeSecurityHeroes land a Product](https://www.homesecurityheroes.com/ai-password-cracking/), and you can test how much time an AI would need to crack your password here.
 * [nuclei-ai-extension](https://github.com/projectdiscovery/nuclei-ai-extension) - Official by Nuclei Team. Browser Extension for Rapid Nuclei Template Generation.
