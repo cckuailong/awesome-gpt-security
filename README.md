@@ -186,6 +186,10 @@ IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up rever
 * [agentic_security](https://github.com/msoedov/agentic_security) - Agentic LLM Vulnerability Scanner
 * [garak](https://github.com/NVIDIA/garak) - LLM vulnerability scanner
 * [inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) - Inspect: A framework for large language model evaluations
+* [TrustGate](https://github.com/NeuralTrust/TrustGate) - Generative Application Firewall (GAF). Detects and blocks attacks against GenAI Applications
+* [TrustTest](https://docs.neuraltrust.ai/trusttest/getting-started/overview) - LLM and agent red teaming automation tool. Evaluation framework
+
+
 
 ### Bypass Security Policy
 
