@@ -169,6 +169,7 @@ IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up rever
 * [shortest prompt that will enable GPT to protect the secret key](https://gpd.43z.one/)
 * [a CTF-like game that teaches how to bypass LLM using language hacks](https://doublespeak.chat/#/)
 * [ai-goat](https://github.com/dhammon/ai-goat) - Learn AI security through a series of vulnerable LLM CTF challenges.
+* [AI/ML/LLM Labs](https://academy.8ksec.io/course/ai-exploitation-challenges) - Try your knowledge of AI, ML, and LLMs.
 
 ---
 ## GPT Security
