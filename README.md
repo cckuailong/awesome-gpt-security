@@ -95,6 +95,7 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 * [Callisto](https://github.com/JetP1ane/Callisto) - An Intelligent Automated Binary Vulnerability Analysis Tool.
 * [LLMFuzzer](https://github.com/mnns/LLMFuzzer) - LLMFuzzer is the first open-source fuzzing framework specifically designed for Large Language Models (LLMs), especially for their integrations in applications via LLM APIs.
 * [Vigil](https://github.com/deadbits/vigil-llm) - Prompt injection detection and LLM prompt security scanner
+* [openclaw-bastion](https://github.com/AtlasPA/openclaw-bastion) - Prompt injection defense for AI agent workspaces. Detects system prompt markers, role overrides, Unicode tricks, and hidden instructions. Part of the 11-tool OpenClaw Security Suite.
 
 ### Preventing
 
