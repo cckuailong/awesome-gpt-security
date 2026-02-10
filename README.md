@@ -119,6 +119,7 @@ IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up rever
 * [wolverine](https://github.com/biobootloader/wolverine) - Auto fix the bugs in your Python Script/Code
 
 ### Assessment
+* [PwnClaw](https://pwnclaw.com) - AI agent security testing platform with 112 attacks across 14 categories (prompt injection, jailbreaks, MCP poisoning, data exfiltration). No API keys needed, AI-powered judge, CI/CD API and GitHub Action. [GitHub](https://github.com/ClawdeRaccoon/pwnclaw)
 
 * [falco-gpt](https://github.com/Dentrax/falco-gpt) - AI-generated remediations for Falco audit events
 * [selefra](https://github.com/selefra/selefra) - an open-source policy-as-code software that provides analytics for multi-cloud and SaaS.
