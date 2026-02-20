@@ -109,6 +109,7 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up reverse-engineering
 * [gpt-wpre](https://github.com/moyix/gpt-wpre) - Whole-Program Reverse Engineering with GPT-3
 * [G-3PO](https://github.com/tenable/ghidra_tools/tree/main/g3po) - A Script that Solicits GPT-3 for Comments on Decompiled Code
+* [x64dbg MCP Server](https://github.com/bromoket/x64dbg_mcp) - MCP server connecting LLMs to x64dbg for AI-driven Windows debugging and reverse engineering with 152 tools.
 
 ### Investigation
 
