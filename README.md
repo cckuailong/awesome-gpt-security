@@ -84,6 +84,7 @@ Here is [A nice tool](https://github.com/cckuailong/SuperAdapters) to Finetune A
 * [Nuclei Templates AI Generator](https://templates.nuclei.sh/) -- Create Nuclei templates by textual description (e.g., vulnerability scanners by PoC).
 * [hackGPT](https://github.com/NoDataFound/hackGPT) - Leverage OpenAI and ChatGPT to do hackerish things
 * [AutorizePro](https://github.com/sule01u/AutorizePro) - AutorizePro is a authorization enforcement detection extension for burp suite. By adding Ai-assisted analysis, it significantly reduces the false positive rate and improves the efficiency of vulnerability detection.
+* [operant-mcp](https://github.com/operantlabs/operant-mcp) - MCP server with 51 security testing tools for penetration testing, network forensics, memory analysis, and vulnerability assessment. Covers SQLi, XSS, command injection, SSRF, PCAP forensics, cloud recon, and more. TypeScript, MIT licensed. Install: `npx operant-mcp`
 
 ### Detecting
 
