@@ -72,6 +72,7 @@ Here is [A nice tool](https://github.com/cckuailong/SuperAdapters) to Finetune A
 
 ### Offensive
 
+* [operant-mcp](https://github.com/operantlabs/operant-mcp) - Open-source MCP server providing 51 security testing tools across 19 modules (SQL injection, XSS, command injection, SSRF, path traversal, PCAP/network forensics, reconnaissance, memory forensics, malware document analysis, and more). Enables LLM-driven security testing via `npx operant-mcp`.
 * [PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
 * [HackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT): LLMs x PenTesting, focus on linux priv-esc adn web/web-api pentesting
 * [burpgpt](https://github.com/aress31/burpgpt) - A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type.
