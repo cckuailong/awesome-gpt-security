@@ -97,6 +97,7 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 * [Vigil](https://github.com/deadbits/vigil-llm) - Prompt injection detection and LLM prompt security scanner
 * [AgentShield](https://github.com/elliotllliu/agent-shield) - Security scanner for AI agent skills, MCP servers, and plugins. 31 rules detect prompt injection (8 languages, 55+ patterns), data exfiltration, backdoors, tool poisoning, and cross-file attack chains. Includes MCP runtime proxy for real-time interception.
 
+* [asqav](https://github.com/jagmarques/asqav-sdk) - Quantum-safe AI agent governance SDK. ML-DSA-65 signed audit trails, policy enforcement, and threat detection for LLM-powered agents and MCP servers.
 ### Preventing
 
 ### Social Engineering
