@@ -58,6 +58,7 @@ Here is [A nice tool](https://github.com/cckuailong/SuperAdapters) to Finetune A
 * [Ret2GPT](https://github.com/DDizzzy79/Ret2GPT) - Advanced AI-powered binary analysis tool leveraging OpenAI's LangChain technology, revolutionizing CTF Pwners' experience in binary file interpretation and vulnerability detection.
 * [AuthzAI](https://github.com/ngalongc/AuthzAI) - An automated tool to test and analyze API endpoints for potential permission model violations using OpenAI structured outputs.
 * [SinkFinder](https://github.com/Phelaine/SinkFinder) - Semi-automatic vulnerability mining tool for closed-source systems, static code analysis for jar/war/zip, adding LLM large model capability to verify path accessibility, LLM determines the trust score of the path based on the context code environment
+* [prompt-defense-audit](https://github.com/ppcvote/prompt-defense-audit) - Static 12-vector defense posture scanner for AI system prompts. Pure regex, <5ms, zero deps. Checks if a prompt has defenses against prompt injection, data leakage, role escape, and 9 more attack vectors. Merged into [Cisco AI Defense mcp-scanner](https://github.com/cisco-ai-defense/mcp-scanner/pull/146).
 
 ### Reconnaissance
 
