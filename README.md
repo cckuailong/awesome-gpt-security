@@ -2,6 +2,7 @@
 
 A curated list of awesome security tools, experimental case or other interesting things with LLM or GPT.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including security auditing, penetration testing analysis, and WAF agents with built-in guardrails. MIT licensed.
 ## Contents
 
 - [Tools](#tools)
