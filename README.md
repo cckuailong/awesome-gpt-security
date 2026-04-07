@@ -45,6 +45,7 @@ Here is [A nice tool](https://github.com/cckuailong/SuperAdapters) to Finetune A
 * [AutoAudit](https://github.com/ddzipp/AutoAudit) - An LLM for Cyber Security
 * [secgpt](https://github.com/Clouditera/secgpt) - Cyber security LLM(Lora finetuned with baichuan-13B using some material of cyber security)
 * [HackerGPT-2.0](https://github.com/Hacker-GPT/HackerGPT-2.0) - HackerGPT is your indispensable digital companion in the world of hacking. 
+* [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
 
 ### Audit
 
