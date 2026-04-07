@@ -96,6 +96,7 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 * [LLMFuzzer](https://github.com/mnns/LLMFuzzer) - LLMFuzzer is the first open-source fuzzing framework specifically designed for Large Language Models (LLMs), especially for their integrations in applications via LLM APIs.
 * [Vigil](https://github.com/deadbits/vigil-llm) - Prompt injection detection and LLM prompt security scanner
 * [AgentShield](https://github.com/elliotllliu/agent-shield) - Security scanner for AI agent skills, MCP servers, and plugins. 31 rules detect prompt injection (8 languages, 55+ patterns), data exfiltration, backdoors, tool poisoning, and cross-file attack chains. Includes MCP runtime proxy for real-time interception.
+* [LochBot](https://github.com/theluckystrike/lochbot.com) - Browser-based prompt injection vulnerability checker that analyzes chatbot system prompts against 31 attack patterns, 100% client-side with no data sent to servers.
 
 ### Preventing
 
