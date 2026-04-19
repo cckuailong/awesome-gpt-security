@@ -61,8 +61,10 @@ Here is [A nice tool](https://github.com/cckuailong/SuperAdapters) to Finetune A
 
 ### Reconnaissance
 
+* [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 * [CensysGPT Beta](https://gpt.censys.io) - The tool enables users to quickly and easily gain insights into hosts on the internet, streamlining the process and allowing for more proactive threat hunting and exposure management
 * [GPT_Vuln-analyzer](https://github.com/morpheuslord/GPT_Vuln-analyzer) - Uses ChatGPT API, Python-Nmap, DNS Recon modules and uses the GPT3 model to create vulnerability reports based on Nmap scan data, and DNS scan information. It can also perform subdomain enumeration to a great extent
+* [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline with visual dashboard, one-click install, and auto-update.
 * [SubGPT](https://github.com/s0md3v/SubGPT) - SubGPT looks at subdomains you have already discovered for a domain and uses BingGPT to find more.
 * [Navi](https://github.com/SSGOrg/Navi) - A QA based Reconnaissance Tool with GPT
 * [ChatCVE](https://github.com/jasona7/ChatCVE) - The ChatCVE Lang Chain App is an AI-powered devSecOps application 🔍, for oganizations triaging and aggregating CVE (Common Vulnerabilities and Exposures) information.
