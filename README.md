@@ -188,6 +188,7 @@ IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up rever
 * [garak](https://github.com/NVIDIA/garak) - LLM vulnerability scanner
 * [inspect_ai](https://github.com/UKGovernmentBEIS/inspect_ai) - Inspect: A framework for large language model evaluations
 * [WFGY Problem Map](https://github.com/onestardao/WFGY/blob/main/ProblemMap/README.md) - This is a structured diagnostic handbook that catalogs and numbers common AI failure modes in RAG/Agent systems, providing a complete path from "symptom identification" to "precise remediation."
+* [SecLens](https://github.com/mattersec-labs/seclens) - A benchmark for evaluating LLMs on security vulnerability detection using real CVEs. Covers 5 stakeholder lenses, 406 tasks, and 12 models. ([paper](https://arxiv.org/abs/2604.01637))
 
 ### Bypass Security Policy
 
