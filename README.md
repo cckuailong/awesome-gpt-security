@@ -200,6 +200,7 @@ IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up rever
 * [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://llm-attacks.org/)
 * [promptbench](https://github.com/microsoft/promptbench) - A robustness evaluation framework for large language models on adversarial prompts
 * [jailbreak_llms](https://github.com/verazuo/jailbreak_llms) - A dataset consists of 15,140 ChatGPT prompts from Reddit, Discord, websites, and open-source datasets (including 1,405 jailbreak prompts).
+* [tool-output-mimicry](https://github.com/314-ia/tool-output-mimicry) - Reference reproducer for the Tool Output Mimicry primitive: bypasses multi-layer agentic AI defenses by impersonating an upstream agent's task summary in a user-controlled field that a downstream agent reads. Validated end-to-end against the OWASP FinBot CTF; companion paper at doi.org/10.5281/zenodo.19794072.
 
 ### Bug Bounty
 
