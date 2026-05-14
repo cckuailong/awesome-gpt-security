@@ -101,6 +101,8 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 
 ### Preventing
 
+* [APort](https://aport.io) - Agent identity verification and policy enforcement for LLM/GPT tool calls, adding pre-action authorization guardrails before agents execute sensitive actions.
+
 ### Social Engineering
 
 * [ChatGPT-Web-Setting-Funny-Abuse](https://github.com/Esonhugh/ChatGPT-Web-Setting-Funny-Abuse) - Play with ChatGPT-Web and found the HTML rendering in description settings.
