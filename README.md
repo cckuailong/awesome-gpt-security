@@ -217,6 +217,7 @@ IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up rever
 ### Plugin Security
 
 * [SecureGPT](https://escape.tech/securegpt) – Dynamically test the security of your ChatGPT Plugins APIs (Free DAST for ChatGPT Plugins).
+- [APort Agent Guardrails](https://aport.io) - Pre-action authorization guardrails for AI agents and MCP/tool-use workflows.
 
 # Contributing
 
