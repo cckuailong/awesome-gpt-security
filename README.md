@@ -101,6 +101,8 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 
 ### Preventing
 
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Pre-dispatch trust gating: verify AI agent identity and query trust scores before executing transactions or API calls. MCP server with `preflight_check`, `score_agent`, `resolve_agent`, and `verify_trust_receipt` tools. Zero-install via Streamable HTTP.
+
 ### Social Engineering
 
 * [ChatGPT-Web-Setting-Funny-Abuse](https://github.com/Esonhugh/ChatGPT-Web-Setting-Funny-Abuse) - Play with ChatGPT-Web and found the HTML rendering in description settings.
