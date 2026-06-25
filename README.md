@@ -116,6 +116,7 @@ IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up rever
 ### Investigation
 
 * [beelzebub](https://github.com/mariocandela/beelzebub) - Go-Based Low-Code Honeypot Framework with Enhanced Security, Leveraging GPT-3 for System Virtualization
+* [Cynative](https://github.com/cynative/cynative) - Agentic security CLI that runs code in a built-in sandbox to research AWS, GCP, Azure, Kubernetes, GitHub and GitLab. Read-only enforced by default.
 
 ### Fix
 
