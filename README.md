@@ -98,6 +98,7 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 * [Vigil](https://github.com/deadbits/vigil-llm) - Prompt injection detection and LLM prompt security scanner
 * [AgentShield](https://github.com/elliotllliu/agent-shield) - Security scanner for AI agent skills, MCP servers, and plugins. 31 rules detect prompt injection (8 languages, 55+ patterns), data exfiltration, backdoors, tool poisoning, and cross-file attack chains. Includes MCP runtime proxy for real-time interception.
 * [Agent Threat Rules (ATR)](https://github.com/Agent-Threat-Rule/agent-threat-rules) - Open detection standard for AI agent threats (prompt injection, tool poisoning, MCP attacks, skill compromise) — Sigma/YARA-style YAML rules. 330 rules across 9 attack categories with full mapping to OWASP Agentic Top 10 (10/10), MITRE ATLAS (100/113), NIST AI RMF (100%), and SAFE-MCP (78/85). 97.1% recall on the garak probe set and 0% false-positive on 53,577 real-world MCP skills. Shipped in production at Cisco AI Defense and Microsoft agent-governance-toolkit. Apache-2.0.
+* [Redcells](https://redcells.net) - automated adversarial testing platform for OpenAI-compatible LLMs you own or control. Run structured red-team jobs (prompt injection, jailbreak, data leakage) with an iterative attack→refine pipeline and per-layer scoring dashboard.
 
 ### Preventing
 
