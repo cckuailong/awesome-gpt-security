@@ -100,6 +100,7 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 * [AgentShield](https://github.com/elliotllliu/agent-shield) - Security scanner for AI agent skills, MCP servers, and plugins. 31 rules detect prompt injection (8 languages, 55+ patterns), data exfiltration, backdoors, tool poisoning, and cross-file attack chains. Includes MCP runtime proxy for real-time interception.
 * [Agent Threat Rules (ATR)](https://github.com/Agent-Threat-Rule/agent-threat-rules) - Open detection standard for AI agent threats (prompt injection, tool poisoning, MCP attacks, skill compromise) — Sigma/YARA-style YAML rules. 330 rules across 9 attack categories with full mapping to OWASP Agentic Top 10 (10/10), MITRE ATLAS (100/113), NIST AI RMF (100%), and SAFE-MCP (78/85). 97.1% recall on the garak probe set and 0% false-positive on 53,577 real-world MCP skills. Shipped in production at Cisco AI Defense and Microsoft agent-governance-toolkit. Apache-2.0.
 * [Armorer Guard](https://github.com/ArmorerLabs/Armorer-Guard) - Local Rust scanner and MCP proxy for AI-agent prompt injection, credential leakage, exfiltration, and risky tool-call arguments before execution.
+* [Quint](https://quintai.dev) - Behavioral security platform for AI agents that intercepts agent actions at the OS level (macOS EndpointSecurity) and LLM/MCP traffic via proxy, scores risk in real time, and produces tamper-proof signed audit trails.
 
 ### Preventing
 
