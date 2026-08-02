@@ -60,6 +60,7 @@ Here is [A nice tool](https://github.com/cckuailong/SuperAdapters) to Finetune A
 * [AuthzAI](https://github.com/ngalongc/AuthzAI) - An automated tool to test and analyze API endpoints for potential permission model violations using OpenAI structured outputs.
 * [SinkFinder](https://github.com/Phelaine/SinkFinder) - Semi-automatic vulnerability mining tool for closed-source systems, static code analysis for jar/war/zip, adding LLM large model capability to verify path accessibility, LLM determines the trust score of the path based on the context code environment
 * [VulnHawk](https://github.com/momenbasel/vulnhawk) - LLM-powered SAST scanner that uses context-enriched analysis with Claude, GPT, and Ollama to detect vulnerabilities requiring business logic understanding such as missing authorization, IDOR, and inconsistent security controls
+* [Trent AI](https://trent.ai) - Agentic AI security platform that continuously assesses AI agents, MCP servers, LLM and AI-native applications, and code shipped with AI coding tools, traces attack chains, and verifies proposed fixes landed.
 
 ### Reconnaissance
 
