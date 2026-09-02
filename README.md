@@ -104,6 +104,8 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 
 ### Preventing
 
+* [Norviq](https://github.com/norviq-dev/norviq) - Policy enforcement point for LLM agent tool calls. Pins tool definitions at discovery and evaluates every MCP `tools/call` against OPA/Rego before the upstream server runs it. Runs as a local stdio proxy or on Kubernetes with SPIFFE workload identity.
+
 ### Social Engineering
 
 * [ChatGPT-Web-Setting-Funny-Abuse](https://github.com/Esonhugh/ChatGPT-Web-Setting-Funny-Abuse) - Play with ChatGPT-Web and found the HTML rendering in description settings.
