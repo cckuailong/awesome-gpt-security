@@ -172,6 +172,8 @@ IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up rever
 * [Using LLMs to reverse JavaScript variable name minification](https://thejunkland.com/blog/using-llms-to-reverse-javascript-minification)
 * [CircleGuardBench - A full-fledged benchmark for evaluating protection capabilities of AI models](https://huggingface.co/blog/whitecircle-ai/circleguardbench)
 * [hego.red - Practical AI/LLM Red Teaming Notes](https://hego.red/)
+* [Is ChatGPT Safe for Company Data?](https://traztech.ca/blog/is-chatgpt-safe-for-company-data) - Analysis of ChatGPT data handling from a compliance auditor's perspective.
+* [What Is Vibe-Coding QA?](https://traztech.ca/blog/what-is-vibe-coding-qa) - Security review methodology for AI-generated code.
 
 ### Fun
 
