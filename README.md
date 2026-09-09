@@ -104,6 +104,8 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 
 ### Preventing
 
+* [PasteGuard](https://github.com/ExtendedUser/pasteguard) - Client-side scanner for secrets and PII before pasting into AI chats (browser-local, no upload).
+
 ### Social Engineering
 
 * [ChatGPT-Web-Setting-Funny-Abuse](https://github.com/Esonhugh/ChatGPT-Web-Setting-Funny-Abuse) - Play with ChatGPT-Web and found the HTML rendering in description settings.
