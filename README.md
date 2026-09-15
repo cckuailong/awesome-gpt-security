@@ -104,7 +104,7 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 
 ### Preventing
 
-* [Gram](https://github.com/speakeasy-api/gram) - AI control plane that enforces agent access policies and detects security risks.
+* [Speakeasy AI Control Plane](https://www.speakeasy.com/product/ai-control-plane) - Enterprise AI control plane for governing agent and MCP access with role-based access control, runtime guardrails, and audit trails.
 
 ### Social Engineering
 
