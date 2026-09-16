@@ -223,6 +223,7 @@ IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up rever
 ### Plugin Security
 
 * [SecureGPT](https://escape.tech/securegpt) – Dynamically test the security of your ChatGPT Plugins APIs (Free DAST for ChatGPT Plugins).
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 # Contributing
 
