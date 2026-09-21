@@ -104,6 +104,8 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 
 ### Preventing
 
+* [Speakeasy AI Control Plane](https://www.speakeasy.com/product/ai-control-plane) - Enterprise AI control plane for governing agent and MCP access with role-based access control, runtime guardrails, and audit trails.
+
 ### Social Engineering
 
 * [ChatGPT-Web-Setting-Funny-Abuse](https://github.com/Esonhugh/ChatGPT-Web-Setting-Funny-Abuse) - Play with ChatGPT-Web and found the HTML rendering in description settings.
