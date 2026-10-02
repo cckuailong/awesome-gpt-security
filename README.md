@@ -172,6 +172,7 @@ IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up rever
 * [Using LLMs to reverse JavaScript variable name minification](https://thejunkland.com/blog/using-llms-to-reverse-javascript-minification)
 * [CircleGuardBench - A full-fledged benchmark for evaluating protection capabilities of AI models](https://huggingface.co/blog/whitecircle-ai/circleguardbench)
 * [hego.red - Practical AI/LLM Red Teaming Notes](https://hego.red/)
+* [InkJect: The Visual Prompt Injection That Text Defenses Were Never Built to Stop](https://www.deepkeep.ai/blog/inkject-the-visual-prompt-injection-that-text-defenses-were-never-built-to-stop)
 
 ### Fun
 
