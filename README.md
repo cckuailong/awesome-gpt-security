@@ -87,6 +87,7 @@ Here is [A nice tool](https://github.com/cckuailong/SuperAdapters) to Finetune A
 * [hackGPT](https://github.com/NoDataFound/hackGPT) - Leverage OpenAI and ChatGPT to do hackerish things
 * [Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Autonomous AI penetration testing platform where Markdown methodology playbooks orchestrate 80+ offensive tools via MCP across web, cloud, Active Directory, Kubernetes and API targets, keeping an evidence trail for every finding.
 * [AutorizePro](https://github.com/sule01u/AutorizePro) - AutorizePro is a authorization enforcement detection extension for burp suite. By adding Ai-assisted analysis, it significantly reduces the false positive rate and improves the efficiency of vulnerability detection.
+* [RedAmon](https://github.com/samugit83/redamon) - Open-source, self-hosted AI penetration testing framework that maps the attack surface into a graph, exploits it from a Kali sandbox with human approval gates, and opens pull requests that fix what it finds.
 
 ### Detecting
 
