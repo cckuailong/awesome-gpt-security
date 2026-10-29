@@ -189,6 +189,7 @@ IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up rever
 * [modelscan](https://github.com/protectai/modelscan) - Protection against Model Serialization Attacks
 * [promptfoo](https://github.com/promptfoo/promptfoo) - LLM red teaming and evaluation framework. Includes modelaudit for scanning ML models for malicious code, backdoors, and serialization attacks. CI/CD integration
 * [ATT&CK for LLM Apps](https://atlas.mitre.org/)
+* [ATX-1 Threat Matrix](https://github.com/aegis-initiative/aegis-governance) - ATT&CK-style taxonomy of agentic AI threats: 10 tactics, 69 techniques with root causes and mitigations, published as a STIX 2.1 bundle and ATT&CK Navigator layer
 * [The OWASP Top 10 for Large Language Model Applications project](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
 * [Google AI Red Team](https://services.google.com/fh/files/blogs/google_ai_red_team_digital_final.pdf)
 * [PurpleLlama](https://github.com/facebookresearch/PurpleLlama) - Empowering developers, advancing safety, and building an open ecosystem
