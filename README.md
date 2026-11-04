@@ -87,6 +87,7 @@ Here is [A nice tool](https://github.com/cckuailong/SuperAdapters) to Finetune A
 * [hackGPT](https://github.com/NoDataFound/hackGPT) - Leverage OpenAI and ChatGPT to do hackerish things
 * [Dark-Moon](https://github.com/ASCIT31/Dark-Moon) - Autonomous AI penetration testing platform where Markdown methodology playbooks orchestrate 80+ offensive tools via MCP across web, cloud, Active Directory, Kubernetes and API targets, keeping an evidence trail for every finding.
 * [AutorizePro](https://github.com/sule01u/AutorizePro) - AutorizePro is a authorization enforcement detection extension for burp suite. By adding Ai-assisted analysis, it significantly reduces the false positive rate and improves the efficiency of vulnerability detection.
+* [pwner](https://github.com/0x45dd/pwner) - Agentic network and Active Directory pentest CLI; an LLM drives nmap, nuclei, impacket, netexec and kerbrute as scope-checked tool calls, and it runs fully offline on a local model via any OpenAI-compatible endpoint (Ollama, Lemonade, llama.cpp)
 
 ### Detecting
 
