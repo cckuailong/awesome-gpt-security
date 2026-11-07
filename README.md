@@ -104,6 +104,8 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 
 ### Preventing
 
+* [OnlyRead](https://github.com/onlyreadai/onlyread) - Chrome extension that makes the sites you choose read-only for AI agents that use your browser. Reads pass, and sends, posts, edits and deletes are refused on the network requests before they leave the browser.
+
 ### Social Engineering
 
 * [ChatGPT-Web-Setting-Funny-Abuse](https://github.com/Esonhugh/ChatGPT-Web-Setting-Funny-Abuse) - Play with ChatGPT-Web and found the HTML rendering in description settings.
