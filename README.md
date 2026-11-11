@@ -151,6 +151,7 @@ IDA plugin which queries OpenAI's gpt-3.5-turbo language model to speed up rever
 * [Chat4GPT Experiments for Security](https://github.com/mesutgungor/ChatGPT4Security)
 * [GPT-3 use cases for Cybersecurity](https://github.com/sophos/gpt3-and-cybersecurity)
 * [AI-Powered Fuzzing: Breaking the Bug Hunting Barrier](https://security.googleblog.com/2023/08/ai-powered-fuzzing-breaking-bug-hunting.html)
+- [Memory Poisoning Lab](https://github.com/RishabhPande/memory-poison-lab) - Synthetic persistent-memory poisoning exercises with scripted recall, visible provenance and explicit repair limits.
 
 ### Academic
 
