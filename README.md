@@ -102,6 +102,8 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 * [Agent Threat Rules (ATR)](https://github.com/Agent-Threat-Rule/agent-threat-rules) - Open detection standard for AI agent threats (prompt injection, tool poisoning, MCP attacks, skill compromise) — Sigma/YARA-style YAML rules. 330 rules across 9 attack categories with full mapping to OWASP Agentic Top 10 (10/10), MITRE ATLAS (100/113), NIST AI RMF (100%), and SAFE-MCP (78/85). 97.1% recall on the garak probe set and 0% false-positive on 53,577 real-world MCP skills. Shipped in production at Cisco AI Defense and Microsoft agent-governance-toolkit. Apache-2.0.
 * [Armorer Guard](https://github.com/ArmorerLabs/Armorer-Guard) - Local Rust scanner and MCP proxy for AI-agent prompt injection, credential leakage, exfiltration, and risky tool-call arguments before execution.
 
+* [regex-redos-guard](https://github.com/Qin-Z-x/regex-redos-guard) - Detects catastrophic backtracking (ReDoS) risk in LLM-generated regexes with static heuristics plus measured child-process timeout probes; stdlib-only Python CLI.
+
 ### Preventing
 
 ### Social Engineering
