@@ -104,6 +104,8 @@ IATelligence is a Python script that will extract the IAT of a PE file and reque
 
 ### Preventing
 
+* [whoami-guard](https://github.com/ChrystianSchutz/whoami-guard) - PreToolUse hook for Claude Code and Codex that stops coding agents from sending the user's own e-mail address or name to outside services, for example as a User-Agent contact after a site answers 403.
+
 ### Social Engineering
 
 * [ChatGPT-Web-Setting-Funny-Abuse](https://github.com/Esonhugh/ChatGPT-Web-Setting-Funny-Abuse) - Play with ChatGPT-Web and found the HTML rendering in description settings.
